@@ -11,3 +11,8 @@ En esta actividad realizaremos un formulario simple, pero funcional sin tener qu
 Cuando logres desplegar la aplicación en producción saca un print de pantalla y agrégalo a este README con un `commit` y luego `push`.
 
 ¡Recuerda siempre trabajar en equipo!
+
+## Objetivo Logrado
+[Demo en produccion](https://bespoke-strudel-586039.netlify.app/)
+
+![Foto del demo](demo.png)
